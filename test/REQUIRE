@@ -1,0 +1,14 @@
+NBInclude
+
+JuMP
+# Gadfly
+DataStructures
+PyCall
+Optim
+OrdinaryDiffEq
+Clp
+DiffEqBase
+LightGraphs
+Calculus
+BenchmarkTools
+SimpleTraits
